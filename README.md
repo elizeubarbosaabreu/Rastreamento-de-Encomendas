@@ -3,7 +3,7 @@
 
 Olá é com muita satisfação que apresento esta versão para o rastreador de encomendas dos Correios, uma empresa que amo de paixão (aliás, trabalho nela a mais de 14 anos).
 
-Este software usa a Biblioteca PySimpleGui para exibição gráfica e a Api de Rastreio do [Chipytux](https://github.com/chipytux) que funciona por requests...
+Este software usa a Biblioteca [PySimpleGui](https://github.com/PySimpleGUI) para exibição gráfica e a Api de Rastreio do [Chipytux](https://github.com/chipytux) que funciona por requests...
 
 ## Como Instalar Rastreador de Encomendas
 
