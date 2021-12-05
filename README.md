@@ -57,7 +57,7 @@ python app.py
 
 ## Transforme o arquivo app.py em executável
 
-Agora para transformar a Bíblia em Software rode os comandos abaixo:
+Agora para transformar o Software em executável, rode os comandos abaixo:
  
 ~~~python
 
